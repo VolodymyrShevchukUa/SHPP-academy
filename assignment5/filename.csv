@@ -1,0 +1,15 @@
+Normal value,value,Price,Comma,Another value,Slash
+Normal value,value,100,",",""","","","",",\
+Normal value,"""Not normal, but better""",100,",",""","","","",",\
+'''Not normal value,"""Not normal, but better""",100,",",""",,,,,""",\
+"""Not normal"""""""",,,,,"","",""value"",","""Not normal, but better""",200,",",""",,,,,""",\
+"pass""word","""Not normal, but better""",300,",",".,.,m,m,",\
+"""""""""""","""Not normal, but better""",100,",",".,",\
+"NotNormal, value,","""Not normal, but better""",200,",",".,.",\
+",,,,,,,,"",,,,,,,normal? Value?","""Not normal, but better""",300,",",",",\
+"""Value with dQuotes","""Not normal, but better""",100,",",".,",\
+"""""value with 2dQuotes","""Not normal, but better""",200,",",".,.,",\
+"""""""value with 3dQuotes","""Not normal, but better""",300,",",".,.,.,.",\
+"""""""""""""""""""""too much quotes","""Not normal, but better""",100,",",qwe,\
+"""""""""""""""""""""another value"""""""""""""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""""""","","""""""""""""""""",""""Not normal, but better"""",","""Not normal, but better""",200,",",123,\
+"""value ?"""""",","""Not normal, but better""",300,",",","","","",",\
